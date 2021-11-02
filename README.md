@@ -1,3 +1,3 @@
 # proov2
-6ige
-gitignore c++
+6ige //
+gitignore { c++ }
